@@ -1,0 +1,3 @@
+ var data_validation = '{"fb-submit-button":{"hover":{"background-image":""}},"item1_text_1":{"required":true},"item2_text_1":{},"item3_0_radio":{"required":false},"item4_0_checkbox":{"minlength_checkbox":0},"item6_tel_1":{"phoneUS":true},"item7_regex_1":{"regex_config":"/^[0-9]+$/"},"item8_regex_1":{"regex_config":"/^[0-9]+$/"},"item9_regex_1":{"regex_config":"/^[0-9]+$/"},"conditionalRules":{"item8":{"element":{"name":"radio3","operator":"is","value":"Radio 2"}},"item9":{"element":{"name":"radio3","operator":"is","value":"Radio 2"}},"item7":{"element":{"name":"radio3","operator":"is","value":"Radio 2"}},"item6":{"element":{"name":"radio3","operator":"is","value":"Radio 2"}}},"sigpad":{"sigpad":true}}';
+ var data_jsplugins = '[]';
+ var data_cssplugins = '[]';
